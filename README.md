@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Eduardo 
 #### Soy estudiante de ingeniería
-![Soy estudiante de ingeniería](https://i.imgur.com/JR8ilHf.jpg)
+![Soy estudiante de ingeniería](https://i.pinimg.com/originals/04/bb/1e/04bb1ec93c6c223aa61e1479435bb6e7.png)
 
 Soy un estudiante de sistemas computacionales, que tiene un gran gusto por el desarrollo web 
 
@@ -17,4 +17,3 @@ Habilidades:  HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoArenasI&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/EduardoArenasI)  
