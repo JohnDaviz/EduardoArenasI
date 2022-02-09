@@ -7,7 +7,6 @@ Soy un estudiante de sistemas computacionales, que tiene un gran gusto por el de
 Habilidades:  HTML / CSS
 
 - 🌱 Estoy aprendiendo Frontend 
-- 📫 Cómo contactarme: eduardoarenas014@gmail.com 
 - ⚡ Dato curioso: Me gusta el diseño grafico 
 
 
